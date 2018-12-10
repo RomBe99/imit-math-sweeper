@@ -88,7 +88,7 @@ public class Matan extends JFrame {
 
     private void initFrame() {
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Sweeper");
+        setTitle("Arabic sweeper");
         setResizable(false);
         setVisible(true);
         setIconImage(getImage("icon"));
