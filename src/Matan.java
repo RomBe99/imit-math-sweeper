@@ -12,9 +12,9 @@ public class Matan extends JFrame {
     private JPanel panel;
     private JLabel label;
 
-    private final int cols = 10;
-    private final int rows = 10;
-    private final int bombs = 15;
+    private final int cols = 15;
+    private final int rows = 15;
+    private final int bombs = 55;
     private final int image_size = 50;
 
     public static void main(String[] args) {
